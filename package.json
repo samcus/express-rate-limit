@@ -32,7 +32,8 @@
     "attack"
   ],
   "dependencies": {
-    "defaults": "^1.0.3"
+    "defaults": "^1.0.3",
+    "moment": "^2.18.1"
   },
   "devDependencies": {
     "express": "^4.13.3",
